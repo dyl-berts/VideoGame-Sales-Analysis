@@ -96,7 +96,7 @@ Create a Virtual Environment (Recommended):
 # On Windows:
 ```
 .\venv\Scripts\activate
-```S
+```
 # On macOS/Linux:
 ```
 source venv/bin/activate
