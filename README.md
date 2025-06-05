@@ -1,31 +1,53 @@
 ### 🎮 Video Game Market Analysis: Decades of Gaming Trends
 
 Project Overview
+
 This project delves into a historical dataset of video game sales to uncover significant trends and competitive dynamics within the global gaming market. Leveraging Python for data manipulation, analysis, and visualization, the goal is to provide a clear understanding of genre popularity shifts and the market share evolution of leading publishers over time.
 
 This analysis is particularly useful for game developers, publishers, and industry enthusiasts looking to identify long-term patterns, understand market dominance, and inform strategic decisions.
 
 Key Features & Analysis
+
 Comprehensive Data Loading & Cleaning: Efficient handling of raw sales data, including necessary cleaning and preparation for robust analysis.
+
 Platform Performance Analysis:
+
 Quantifies the overall contribution of each gaming platform to total global sales.
+
 Visualizes the spread and central tendency of individual game sales on different platforms, identifying platforms with consistently high-selling titles versus those with more varied performance.
+
 Highlights the individual blockbuster titles that drove sales on each major platform.
+
 Genre Market Share Evolution:
+
 Identifies the most prominent video game genres.
+
 Visualizes how the global market share of these genres has changed year-over-year using stacked area charts.
+
 Visualizes the spread and central tendency of individual game sales within different genres, identifying genres with consistently high-selling titles versus those with more varied performance.
+
 Reveals emerging trends, declining categories, and consistent performers.
+
 Top 10 Publisher Dominance:
+
 Determines the overall top 10 publishers based on their cumulative global sales across the entire dataset.
+
 Analyzes and visualizes the annual global market share of these industry giants.
+
 Showcases the shifting landscape of publisher influence and concentration.
+
 Regional Market Analysis:
+
 Visualizes the spread and central tendency of individual game sales across different geographical regions (e.g., North America, Europe, Japan, Other), highlighting regional market peculiarities and average sales performance.
+
 Visualizes the total global sales by region using a map, providing a quick visual understanding of dominant markets.
+
 Explores the relationships and dependencies between sales in different regions using a correlation heatmap, identifying which markets tend to move in tandem.
+
 Further visualizes the correlation between highly correlated regions to provide deeper insights into their sales relationships and consistency.
+
 Interactive Visualizations: Utilizes Plotly Express to create interactive charts, allowing users to hover over data points for detailed insights into sales figures and market percentages.
+
 Narrative-Driven Analysis: The project is presented in a Jupyter Notebook, where Markdown cells provide detailed explanations of methodologies, insights, and conclusions for each analytical step, making the entire process transparent and easy to follow.
 
 Data Source
@@ -39,6 +61,7 @@ Publishers
 Sales figures across different regions (North America, Europe, Japan, Other)
 Global Sales
 https://www.kaggle.com/datasets/gregorut/videogamesales
+
 
 Tools & Technologies Used
 
@@ -55,6 +78,7 @@ Seaborn 0.13.2: Built on Matplotlib, used for creating aesthetically pleasing st
 Plotly Express 6.1.2: For creating interactive and visually appealing data visualizations.
 
 Jupyter Notebook: For an interactive development environment, combining code, output, and rich text explanations.
+
 
 How to Run the Project Locally
 To set up and run this project on your local machine, follow these steps:
