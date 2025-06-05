@@ -94,8 +94,11 @@ Create a Virtual Environment (Recommended):
 
     python -m venv venv
 # On Windows:
+```
 .\venv\Scripts\activate
+```S
 # On macOS/Linux:
+```
 source venv/bin/activate
 ```
 
