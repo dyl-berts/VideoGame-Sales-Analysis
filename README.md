@@ -1,12 +1,12 @@
 ### 🎮 Video Game Market Analysis: Decades of Gaming Trends
 
-Project Overview
+<u>**Project Overview**</u>
 
 This project delves into a historical dataset of video game sales to uncover significant trends and competitive dynamics within the global gaming market. Leveraging Python for data manipulation, analysis, and visualization, the goal is to provide a clear understanding of genre popularity shifts and the market share evolution of leading publishers over time.
 
 This analysis is particularly useful for game developers, publishers, and industry enthusiasts looking to identify long-term patterns, understand market dominance, and inform strategic decisions.
 
-Key Features & Analysis
+<u>**Key Features & Analysis**</u>
 
 Comprehensive Data Loading & Cleaning: Efficient handling of raw sales data, including necessary cleaning and preparation for robust analysis.
 
@@ -63,7 +63,7 @@ Global Sales
 https://www.kaggle.com/datasets/gregorut/videogamesales
 
 
-Tools & Technologies Used
+<u>**Tools & Technologies Used**</u>
 
 Python 3.13.1: The primary programming language.
 
