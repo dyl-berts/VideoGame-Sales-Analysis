@@ -1,4 +1,5 @@
-🎮 Video Game Market Analysis: Decades of Gaming Trends
+### 🎮 Video Game Market Analysis: Decades of Gaming Trends
+
 Project Overview
 This project delves into a historical dataset of video game sales to uncover significant trends and competitive dynamics within the global gaming market. Leveraging Python for data manipulation, analysis, and visualization, the goal is to provide a clear understanding of genre popularity shifts and the market share evolution of leading publishers over time.
 
@@ -40,12 +41,19 @@ Global Sales
 https://www.kaggle.com/datasets/gregorut/videogamesales
 
 Tools & Technologies Used
+
 Python 3.13.1: The primary programming language.
+
 Numpy 2.2.6: For fundamental numerical operations, array computing, and underpinning data structures in Pandas.
+
 Pandas 2.2.3: For powerful data manipulation and analysis.
+
 Matplotlib 3.10.3: For foundational plotting and creating static visualizations (e.g., initial data exploration, basic charts).
+
 Seaborn 0.13.2: Built on Matplotlib, used for creating aesthetically pleasing statistical graphics and more complex data distributions.
+
 Plotly Express 6.1.2: For creating interactive and visually appealing data visualizations.
+
 Jupyter Notebook: For an interactive development environment, combining code, output, and rich text explanations.
 
 How to Run the Project Locally
@@ -97,7 +105,7 @@ Integrate regional sales analysis (NA_Sales, EU_Sales, JP_Sales, Other_Sales).
 Analyze sales trends by platform (e.g., PlayStation, Xbox, Nintendo, PC).
 Perform predictive modeling to forecast future genre or publisher performance.
 Explore sentiment analysis of game reviews to correlate with sales.
-Contact
+
 Feel free to connect with me if you have any questions or feedback!
 
 LinkedIn: www.linkedin.com/in/dylan-roberts-975572339
