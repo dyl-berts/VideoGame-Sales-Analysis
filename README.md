@@ -119,15 +119,21 @@ This will open Jupyter in your web browser.
 Open and Run the Notebook:
 Navigate to the project notebook (e.g., video_game_market_analysis.ipynb) and open it. You can then run all cells to reproduce the analysis and visualizations.
 
-Key Findings (Examples - You'll fill these in with your actual insights!)
-The Rise of Action/Adventure: [Briefly describe how genres like Action and Adventure showed consistent growth or dominance over specific periods, perhaps displacing older genres.]
-Publisher Consolidation: [Explain if the market became more concentrated among the top 10 publishers over time, or if new players emerged to challenge the old guard.]
-Impact of Specific Eras/Consoles: [Mention if any specific console generations or industry events visibly impacted genre or publisher market shares.]
-"Other" Publishers' Significance: [Discuss how the collective "Other" category either diminished or held a significant share, indicating market fragmentation or consolidation outside the top 10.]
+Key Findings
+
+* **Market Leadership & Longevity:** We identified **Nintendo & Electronic Arts (EA) Games** as the clear market leaders, demonstrating its ability to maintain significant global sales over many years. Its historical performance serves as a benchmark for sustained success.
+* **Platform Dominance:** Our analysis highlighted the platforms that consistently drive the highest total sales, along with the varying distribution of individual game sales on each. This provides a clearer picture of market concentration and typical game performance per system.
+* **Evolving Genre Landscape:** We observed the sales trends of various genres over time, pinpointing both evergreen categories and those experiencing significant growth or decline. This insight is crucial for aligning game development with current and future player preferences.
+* **Genre-Specific Performance Metrics:** Beyond overall trends, our analysis of global sales distribution by genre provided a nuanced view of typical sales (median) and consistency (IQR) within each genre, crucial for understanding inherent risk and reward.
+* **Optimized Genre-Platform Pairings:** We identified the top-selling genres for each specific platform, providing highly actionable insights into which game types are most commercially viable on particular systems.
+* **Winning Game Formats:** By examining top-selling titles within specific genre-platform combinations, we gained concrete examples of successful game characteristics and market fit, offering valuable lessons for potential new releases.
+* **Regional Market Dynamics:** We visualized the overall contribution of North America, Europe, and Japan to global sales, identifying NA as the largest market. Furthermore, we discovered a **strong positive correlation (0.77)** between North American and European sales, suggesting interconnected market behaviors and potentially synchronized release strategies across these two major Western territories.
+
 Future Enhancements
-Integrate regional sales analysis (NA_Sales, EU_Sales, JP_Sales, Other_Sales).
-Analyze sales trends by platform (e.g., PlayStation, Xbox, Nintendo, PC).
-Perform predictive modeling to forecast future genre or publisher performance.
+
+* **Competitor Benchmarking:** A deeper dive into how other major publishers compare in terms of genre focus, platform distribution, and regional strengths.
+* **Trend Prediction:** Utilizing time-series forecasting models to predict future sales trends for specific genres or platforms.
+* **Audience Demographics:** If data becomes available, integrate demographic information to understand player preferences in more detail.
 Explore sentiment analysis of game reviews to correlate with sales.
 
 Feel free to connect with me if you have any questions or feedback!
